@@ -150,7 +150,7 @@ class _HomeState extends State<Home> {
                   child: Container(
                     width: 100,
                     height: 25,
-                    color: Colors.black,
+                    color: Colors.grey,
                   ),
                 ),
               ],
